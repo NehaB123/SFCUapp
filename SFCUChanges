@@ -1,0 +1,17 @@
+<head>
+<style>
+body 
+{
+    background-color: blue;
+}
+p.one 
+{
+    border-style: double;
+    border-width: medium;
+}
+h1 
+{
+    color: red;
+}
+</style>
+</head>
